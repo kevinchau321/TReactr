@@ -45,7 +45,7 @@
     "react-redux": "^5.0.3",
     "react-wavesurfer": "^0.8.3",
     "redux": "^3.6.0",
-    "sequelize": "^3.30.4",
+    "sequelize": "^5.15.1",
     "source-map-support": "^0.4.14",
     "sqlite3": "^3.1.8",
     "treactr-canvas-knob": "^0.3.6",
