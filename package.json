@@ -29,7 +29,7 @@
     "hls.js": "^0.7.5",
     "isomorphic-style-loader": "^1.1.0",
     "jest": "^20.0.0",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "jsonwebtoken": "^7.3.0",
     "mediaelement": "^4.0.6",
     "node-fetch": "^1.6.3",
